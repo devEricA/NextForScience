@@ -1,5 +1,5 @@
 # NextForScience
-Remembering whether or not file.next() factors in the whitespace
+This lab tests whether or not file.next() factors in the whitespace
 
 # Problem
 A question that came in during one of my programming challenges was with the functionality of java's Scanner.next(). 
