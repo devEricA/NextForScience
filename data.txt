@@ -1,0 +1,6 @@
+If this sentence prints in one line, then now you know that next() factors in whitespace. 
+f4          foo
+next       test
+this    should       print 
+seperately  if next() 
+works the way     I    think       it          does. 
